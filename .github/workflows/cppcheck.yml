@@ -1,6 +1,10 @@
 name: cppcheck-action
-on: [push]
-
+on: 
+ push:
+   branches: [main]
+ pull request: 
+   branches: [main]
+   
 jobs:
   build:
     name: cppcheck
@@ -8,8 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2   
       - name: Install cppcheck
-        run: sudo apt-get -y install cppcheck
+        run: sudo apt-get  install cppcheck
       - name: Cppcheck code
-        run: cppcheck ./3_Implementation 
-© 2022 GitHub, Inc.
-Terms
+        run: cppcheck --enable=all 3_Implementation 
