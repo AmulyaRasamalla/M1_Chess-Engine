@@ -3,7 +3,8 @@
 ![image](https://user-images.githubusercontent.com/88818462/160461981-a9208758-e609-4488-a0d3-cb5411b084b8.png)
 
 - Referring to the following gameboard setup: Gameboard_Setup
- ![image](https://user-images.githubusercontent.com/88818462/160462199-bcf978e2-88d7-4175-ac7a-6223c8df7bfe.png)
+ ![image]!(https://user-images.githubusercontent.com/88818462/160600099-1b367ac1-31aa-4760-8d4b-027d60d43422.png)
+
 
 - Rank => Rows(1 to 8) Files => Columns(a to h)
 - UpperCase => White Piece Lowercase => Blackpiece
