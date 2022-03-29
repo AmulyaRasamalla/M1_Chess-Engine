@@ -5,4 +5,4 @@
 
 ### [ProcedureVideo](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/6_ImagesAndVideos/2021-04-14_17-26-10.mp4)
 
-### [GameBoardSS](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/6_ImagesAndVideos/Screenshot%202021-04-12%20163251.png)
+### [GameBoardSS](https://user-images.githubusercontent.com/88818462/160601416-d15b0694-5a3e-47fa-b085-f8abc6296969.png)
