@@ -1,6 +1,5 @@
 # Project Timeline
 * Ganntchart
-* Refer: [test](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/tree/main/3_Implementation/test) & [unity](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/tree/main/3_Implementation/unity)
 * Tools used-MS Excel
 
 
