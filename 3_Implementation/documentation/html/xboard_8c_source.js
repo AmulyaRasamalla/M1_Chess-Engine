@@ -7,4 +7,4 @@ var xboard_8c =
     [ "ThreeFoldRep", "xboard_8c.html#a2f93ccdc4f50377a20f987bee407940f", null ],
     [ "XBoard_Loop", "xboard_8c.html#a7513485aff2d4a3470ede9595f97beee", null ]
 ];
-© 2022 GitHub, Inc.
+
