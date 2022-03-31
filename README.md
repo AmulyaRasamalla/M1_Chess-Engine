@@ -26,5 +26,4 @@ Folder	Description
 reference taken from google and chess programming wiki
 
 # Badges:
-1.
 [![Analysis](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/analysis.yml/badge.svg)](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/analysis.yml)
