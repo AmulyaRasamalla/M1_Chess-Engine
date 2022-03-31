@@ -10,8 +10,9 @@ Folder	Description
 2. Architechture	-Documents specifying design details
 3. Implementation	-All code and documentation
 4. Test Plan and Output	Documents with test plans and procedures
-5.Images of	How to play
-6. SWOT Analysis - Strenght,Weakness,Opputunity,Threat
+5. Report of the project.
+6.Images of	How to play
+7. SWOT Analysis - Strenght,Weakness,Opputunity,Threat
 
 # Expectations vs. Implementation
 1.Multi Function and Multi File Approach ✔️
