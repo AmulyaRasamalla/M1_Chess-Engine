@@ -11,7 +11,7 @@ Folder	Description
 3. Implementation	-All code and documentation
 4. Test Plan and Output	Documents with test plans and procedures
 5. Report of the project.
-6.Images of	How to play
+6.Images of	chessboard and output
 7. SWOT Analysis - Strenght,Weakness,Opputunity,Threat
 
 # Expectations vs. Implementation
