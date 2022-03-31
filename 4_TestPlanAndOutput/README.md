@@ -1,5 +1,5 @@
 # Project Timeline
-* Ganntchart
+* Gannt chart
 * Tools used-MS Excel
 
 
