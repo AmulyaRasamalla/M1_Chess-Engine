@@ -27,3 +27,4 @@ reference taken from google and chess programming wiki
 
 # Badges:
 [![Analysis](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/analysis.yml/badge.svg)](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/analysis.yml)
+[![CI](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/main.yml/badge.svg)](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/main.yml)
