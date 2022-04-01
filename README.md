@@ -23,9 +23,10 @@ Folder	Description
 6.Unit Testing with Unity ✔️
 
 # Reference:
-reference taken from google and chess programming wiki
+* reference taken from google and chess programming wiki
+* In addition to reference added some more functionalities in the project.
 
 # Badges:
-[![Analysis](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/analysis.yml/badge.svg)](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/analysis.yml)
-[![CI](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/main.yml/badge.svg)](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/main.yml)
-[![Unit Testing - Unity](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/unity.yml/badge.svg)](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/unity.yml)
+* [![Analysis](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/analysis.yml/badge.svg)](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/analysis.yml)
+* [![CI](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/main.yml/badge.svg)](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/main.yml)
+* [![Unit Testing - Unity](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/unity.yml/badge.svg)](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/unity.yml)
