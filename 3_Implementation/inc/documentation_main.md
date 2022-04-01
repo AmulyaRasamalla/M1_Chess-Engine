@@ -1,2 +1,1 @@
-@mainpage Chess Engine By Nupur Purohit
-@subpage 
+@mainpage Chess Engine By Amulya Rasamalla @subpage 
