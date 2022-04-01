@@ -27,6 +27,7 @@ Folder	Description
 * In addition to reference added some more functionalities in the project(util.c,util.h,perft.h,uci.h,boards.h,bb.c,bb.h).
 
 # Badges:
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0625801a85a24934834545075a9eb69c)](https://app.codacy.com/gh/AmulyaRasamalla/M1_Chess-Engine?utm_source=github.com&utm_medium=referral&utm_content=AmulyaRasamalla/M1_Chess-Engine&utm_campaign=Badge_Grade_Settings)
 * [![Analysis](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/analysis.yml/badge.svg)](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/analysis.yml)
 * [![CI](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/main.yml/badge.svg)](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/main.yml)
 * [![Unit Testing - Unity](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/unity.yml/badge.svg)](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/unity.yml)
