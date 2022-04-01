@@ -24,7 +24,7 @@ Folder	Description
 
 # Reference:
 * reference taken from google and chess programming wiki
-* In addition to reference added some more functionalities in the project.
+* In addition to reference added some more functionalities in the project(util.c,util.h,perft.h,uci.h,boards.h,bb.c,bb.h).
 
 # Badges:
 * [![Analysis](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/analysis.yml/badge.svg)](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/analysis.yml)
