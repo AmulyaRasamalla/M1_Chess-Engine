@@ -31,3 +31,4 @@ Folder	Description
 * [![CI](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/main.yml/badge.svg)](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/main.yml)
 * [![Unit Testing - Unity](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/unity.yml/badge.svg)](https://github.com/AmulyaRasamalla/M1_Chess-Engine/actions/workflows/unity.yml)
 * Codacy-Static Code Analysis:[![Codacy Badge](https://app.codacy.com/project/badge/Grade/629c62a0cdb2422db57545131b9e1e67)](https://www.codacy.com/gh/AmulyaRasamalla/M1_Chess-Engine/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AmulyaRasamalla/M1_Chess-Engine&amp;utm_campaign=Badge_Grade)
+* Codiga-Static Analysis:https://api.codiga.io/project/32348/score/svg
