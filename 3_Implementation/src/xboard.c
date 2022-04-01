@@ -143,7 +143,7 @@ void XBoard_Loop(S_BOARD *pos, S_SEARCHINFO *info) {
 		if (!fgets(inBuf, 80, stdin))
 		continue;
 
-		sscanf(inBuf, "%s", command);
+		scanf(inBuf, "%s", command);
 
 		printf("command seen:%s\n",inBuf);
 
